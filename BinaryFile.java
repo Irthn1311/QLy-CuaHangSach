@@ -29,7 +29,6 @@ public class BinaryFile {
                     System.out.println("Name: " + name + ", Age: " + age + ", Salary: " + salary);
                 }
             } catch (EOFException e) {
-                // End of file reached
             } finally {
                 inStream.close();
             }

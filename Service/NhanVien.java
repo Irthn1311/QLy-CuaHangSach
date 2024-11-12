@@ -1,3 +1,4 @@
+package Service;
 public class NhanVien {
     private String maNV;
     private String tenNV;
