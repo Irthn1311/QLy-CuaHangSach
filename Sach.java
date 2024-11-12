@@ -3,7 +3,7 @@ public class Sach
 {
         private String masach;
         private String tensach;
-        private String tacgia;
+        private String matacgia;
         private String theloai;
         private int dongiaban;
         private int soluong;
@@ -11,15 +11,15 @@ public class Sach
         public Sach(){
             masach="";
             tensach="";
-            tacgia="";
+            matacgia="";
             theloai="";
             dongiaban=0;
             soluong=0;
         }
-        public Sach(String masach,String tensach,String tacgia,String theloai,int dongiaban,int soluong){
+        public Sach(String masach,String tensach,String matacgia,String theloai,int dongiaban,int soluong){
             this.masach=masach;
             this.tensach=tensach;
-            this.tacgia=tacgia;
+            this.matacgia=matacgia;
             this .theloai=theloai;
             this.dongiaban=dongiaban;
             this.soluong=soluong;
@@ -34,7 +34,7 @@ public class Sach
         }
 
         public String getTacgia(){
-            return tacgia;
+            return matacgia;
         }
 
         public String getTheloai(){
@@ -45,7 +45,7 @@ public class Sach
             return dongiaban;
         }
         public int getSoluong(){
-            return soluong;
+            return soluong; 
         }
 
         public void setMasach(String masach){
@@ -55,7 +55,7 @@ public class Sach
             this.tensach=tensach;
         }
         public void setTacgia(String tacgia){
-            this.tacgia=tacgia;
+            this.matacgia=tacgia;
         }
         public void setDongiaban(int dongiaban){
             this.dongiaban=dongiaban;
@@ -63,15 +63,15 @@ public class Sach
         public void setSoluong(int soluong){
             this.soluong=soluong;
         }
-
+        @SuppressWarnings("resource")
         public void nhap(){
             Scanner sc=new Scanner(System.in);
             System.out.print("\nNhap ma sach: ");
             masach=sc.nextLine();
             System.out.print("\nNhap Ten sach: ");
             tensach=sc.nextLine();
-            System.out.print("\nNhap tac gia : ");
-            tacgia=sc.nextLine();
+            System.out.print("\nNhap ma tac gia : ");
+            matacgia=sc.nextLine();
             System.out.print("\nNhap the loai :");
             theloai=sc.nextLine();
             System.out.print("\nNhap gia ban: ");
@@ -81,11 +81,17 @@ public class Sach
             }
 
         public void xuat(){
-            System.out.print("\nMa sach: "+masach);
+            /*System.out.print("\nMa sach: "+masach);
             System.out.print("\nTen sach: "+tensach);
-            System.out.print("\nTac gia : "+tacgia);
+            System.out.print("\nTac gia : "+matacgia);
             System.out.print("\nThe loai :"+theloai);
             System.out.print("\nDon gia ban: "+dongiaban);
-            System.out.print("\nSo luong: "+soluong);
+            System.out.print("\nSo luong: "+soluong);*/
+            System.out.print("\nMa asch: "+masach+
+                              "\nTen sach: "+tensach+
+                              "\nMa tac gia: "+matacgia+
+                              "\nThe loai: "+theloai+
+                              "\nDon gia ban: "+dongiaban+
+                              "\nSo luong: "+soluong);
         }
 }
