@@ -1,0 +1,100 @@
+001,Harry Potter,J.K. Rowling,Giả Tưởng,200000,50
+002,The Hobbit,J.R.R. Tolkien,Giả Tưởng,150000,30
+003,To Kill a Mockingbird,Harper Lee,Tiểu Thuyết,180000,20
+004,Chí Phèo,Nam Cao,Văn Học Việt Nam,100000,40
+005,Tuổi Thơ Dữ Dội,Phùng Quán,Văn Học Việt Nam,120000,25
+006,Đất Rừng Phương Nam,Đoàn Giỏi,Văn Học Việt Nam,130000,35
+007,1984,George Orwell,Chống Không Tưởng,170000,45
+008,The Great Gatsby,F. Scott Fitzgerald,Tiểu Thuyết,160000,50
+009,Pride and Prejudice,Jane Austen,Lãng Mạn,140000,60
+010,The Catcher in the Rye,J.D. Salinger,Tiểu Thuyết,150000,30
+011,The Alchemist,Paulo Coelho,Tiểu Thuyết,190000,40
+012,The Little Prince,Antoine de Saint-Exupéry,Giả Tưởng,130000,55
+013,War and Peace,Leo Tolstoy,Lịch Sử,250000,20
+014,Crime and Punishment,Fyodor Dostoevsky,Tiểu Thuyết,200000,25
+015,The Brothers Karamazov,Fyodor Dostoevsky,Tiểu Thuyết,220000,15
+016,One Hundred Years of Solitude,Gabriel Garcia Marquez,Huyền Ảo,210000,30
+017,Moby Dick,Herman Melville,Phiêu Lưu,180000,20
+018,The Odyssey,Homer,Kinh Điển,160000,25
+019,The Iliad,Homer,Kinh Điển,160000,25
+020,Les Misérables,Victor Hugo,Lịch Sử,230000,20
+021,The Count of Monte Cristo,Alexandre Dumas,Phiêu Lưu,240000,30
+022,Anna Karenina,Leo Tolstoy,Lãng Mạn,200000,25
+023,The Divine Comedy,Dante Alighieri,Kinh Điển,250000,15
+024,Don Quixote,Miguel de Cervantes,Phiêu Lưu,220000,20
+025,The Picture of Dorian Gray,Oscar Wilde,Tiểu Thuyết,170000,30
+026,Jane Eyre,Charlotte Brontë,Lãng Mạn,180000,40
+027,Wuthering Heights,Emily Brontë,Lãng Mạn,170000,35
+028,The Kite Runner,Khaled Hosseini,Tiểu Thuyết,190000,45
+029,Life of Pi,Yann Martel,Phiêu Lưu,200000,30
+030,The Road,Cormac McCarthy,Chống Không Tưởng,180000,25
+031,Giáo Trình Toán Cao Cấp,Nguyễn Đình Trí,Giáo Khoa,200000,50
+032,Giáo Trình Vật Lý Đại Cương,Phạm Văn Bảy,Giáo Khoa,150000,30
+033,Giáo Trình Hóa Học Đại Cương,Trần Văn Thắng,Giáo Khoa,180000,20
+034,Giáo Trình Sinh Học Đại Cương,Nguyễn Thị Lan,Giáo Khoa,100000,40
+035,Giáo Trình Kinh Tế Học,Nguyễn Văn A,Giáo Khoa,120000,25
+036,Giáo Trình Lịch Sử Việt Nam,Trần Quốc Vượng,Giáo Khoa,130000,35
+037,Giáo Trình Triết Học Mác-Lênin,Nguyễn Văn B,Giáo Khoa,170000,45
+038,Giáo Trình Xã Hội Học,Phạm Văn C,Giáo Khoa,160000,50
+039,Giáo Trình Tâm Lý Học,Nguyễn Thị D,Giáo Khoa,140000,60
+040,Giáo Trình Luật Học,Trần Văn E,Giáo Khoa,150000,30
+041,Giáo Trình Kỹ Thuật Điện,Nguyễn Văn F,Giáo Khoa,190000,40
+042,Giáo Trình Kỹ Thuật Cơ Khí,Phạm Văn G,Giáo Khoa,130000,55
+043,Giáo Trình Kỹ Thuật Xây Dựng,Trần Văn H,Giáo Khoa,250000,20
+044,Giáo Trình Kỹ Thuật Ô Tô,Nguyễn Văn I,Giáo Khoa,200000,25
+045,Giáo Trình Kỹ Thuật Điện Tử,Phạm Văn J,Giáo Khoa,220000,15
+046,Giáo Trình Kỹ Thuật Máy Tính,Nguyễn Văn K,Giáo Khoa,210000,30
+047,Giáo Trình Kỹ Thuật Môi Trường,Trần Văn L,Giáo Khoa,180000,20
+048,Giáo Trình Kỹ Thuật Hóa Học,Nguyễn Văn M,Giáo Khoa,160000,25
+049,Giáo Trình Kỹ Thuật Sinh Học,Phạm Văn N,Giáo Khoa,160000,25
+050,Giáo Trình Kỹ Thuật Vật Liệu,Nguyễn Văn O,Giáo Khoa,230000,20
+051,Giáo Trình Kỹ Thuật Năng Lượng,Trần Văn P,Giáo Khoa,240000,30
+052,Giáo Trình Kỹ Thuật Thực Phẩm,Nguyễn Văn Q,Giáo Khoa,200000,25
+053,Giáo Trình Kỹ Thuật Y Sinh,Phạm Văn R,Giáo Khoa,250000,15
+054,Giáo Trình Kỹ Thuật Hàng Không,Nguyễn Văn S,Giáo Khoa,220000,20
+055,Giáo Trình Kỹ Thuật Địa Chất,Trần Văn T,Giáo Khoa,170000,30
+056,Giáo Trình Kỹ Thuật Địa Vật Lý,Nguyễn Văn U,Giáo Khoa,180000,40
+057,Giáo Trình Kỹ Thuật Địa Tin Học,Phạm Văn V,Giáo Khoa,170000,35
+058,Giáo Trình Kỹ Thuật Địa Kỹ Thuật,Nguyễn Văn W,Giáo Khoa,190000,45
+059,Giáo Trình Kỹ Thuật Địa Môi Trường,Trần Văn X,Giáo Khoa,200000,30
+060,Giáo Trình Kỹ Thuật Địa Năng Lượng,Nguyễn Văn Y,Giáo Khoa,180000,25
+061,Những Người Khốn Khổ,Victor Hugo,Lịch Sử,230000,20
+062,Đắc Nhân Tâm,Dale Carnegie,Đời Sống,150000,50
+063,Quẳng Gánh Lo Đi và Vui Sống,Dale Carnegie,Đời Sống,140000,45
+064,Nhà Giả Kim,Paulo Coelho,Tiểu Thuyết,190000,40
+065,Đồi Gió Hú,Emily Brontë,Lãng Mạn,170000,35
+066,Cuốn Theo Chiều Gió,Margaret Mitchell,Lãng Mạn,200000,30
+067,Thép Đã Tôi Thế Đấy,Nikolai Ostrovsky,Tiểu Thuyết,180000,25
+068,Chiến Tranh và Hòa Bình,Leo Tolstoy,Lịch Sử,250000,20
+069,Trăm Năm Cô Đơn,Gabriel Garcia Marquez,Huyền Ảo,210000,30
+070,Đồi Thỏ,Richard Adams,Phiêu Lưu,180000,20
+071,Hoàng Tử Bé,Antoine de Saint-Exupéry,Giả Tưởng,130000,55
+072,Người Đàn Ông Mang Tên Ove,Fredrik Backman,Tiểu Thuyết,160000,40
+073,Người Đua Diều,Khaled Hosseini,Tiểu Thuyết,190000,45
+074,Cuộc Đời Của Pi,Yann Martel,Phiêu Lưu,200000,30
+075,Con Đường,Cormac McCarthy,Chống Không Tưởng,180000,25
+076,Giáo Trình Kỹ Thuật Điện,Nguyễn Văn F,Giáo Khoa,190000,40
+077,Giáo Trình Kỹ Thuật Cơ Khí,Phạm Văn G,Giáo Khoa,130000,55
+078,Giáo Trình Kỹ Thuật Xây Dựng,Trần Văn H,Giáo Khoa,250000,20
+079,Giáo Trình Kỹ Thuật Ô Tô,Nguyễn Văn I,Giáo Khoa,200000,25
+080,Giáo Trình Kỹ Thuật Điện Tử,Phạm Văn J,Giáo Khoa,220000,15
+081,Giáo Trình Kỹ Thuật Máy Tính,Nguyễn Văn K,Giáo Khoa,210000,30
+082,Giáo Trình Kỹ Thuật Môi Trường,Trần Văn L,Giáo Khoa,180000,20
+083,Giáo Trình Kỹ Thuật Hóa Học,Nguyễn Văn M,Giáo Khoa,160000,25
+084,Giáo Trình Kỹ Thuật Sinh Học,Phạm Văn N,Giáo Khoa,160000,25
+085,Giáo Trình Kỹ Thuật Vật Liệu,Nguyễn Văn O,Giáo Khoa,230000,20
+086,Giáo Trình Kỹ Thuật Năng Lượng,Trần Văn P,Giáo Khoa,240000,30
+087,Giáo Trình Kỹ Thuật Thực Phẩm,Nguyễn Văn Q,Giáo Khoa,200000,25
+088,Giáo Trình Kỹ Thuật Y Sinh,Phạm Văn R,Giáo Khoa,250000,15
+089,Giáo Trình Kỹ Thuật Hàng Không,Nguyễn Văn S,Giáo Khoa,220000,20
+090,Giáo Trình Kỹ Thuật Địa Chất,Trần Văn T,Giáo Khoa,170000,30
+091,Giáo Trình Kỹ Thuật Địa Vật Lý,Nguyễn Văn U,Giáo Khoa,180000,40
+092,Giáo Trình Kỹ Thuật Địa Tin Học,Phạm Văn V,Giáo Khoa,170000,35
+093,Giáo Trình Kỹ Thuật Địa Kỹ Thuật,Nguyễn Văn W,Giáo Khoa,190000,45
+094,Giáo Trình Kỹ Thuật Địa Môi Trường,Trần Văn X,Giáo Khoa,200000,30
+095,Giáo Trình Kỹ Thuật Địa Năng Lượng,Nguyễn Văn Y,Giáo Khoa,180000,25
+096,Đắc Nhân Tâm,Dale Carnegie,Đời Sống,150000,50
+097,Quẳng Gánh Lo Đi và Vui Sống,Dale Carnegie,Đời Sống,140000,45
+098,Nhà Giả Kim,Paulo Coelho,Tiểu Thuyết,190000,40
+099,Đồi Gió Hú,Emily Brontë,Lãng Mạn,170000,35
+100,Cuốn Theo Chiều Gió,Margaret Mitchell,Lãng Mạn,200000,30
